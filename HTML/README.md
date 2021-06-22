@@ -32,3 +32,8 @@ For knowing more about GitHub, we have another video for you
 Here we have included how to access GitHub from both Command Line and GUI. 
 
 Follow whichever is comfortable for you.
+
+## Submission
+
+Find the submissions of HTML task [here](Submissions.md)
+
