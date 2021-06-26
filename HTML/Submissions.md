@@ -26,6 +26,6 @@
 | Varsha T N             | 2019 | CSE   | https://github.com/varshatn2000/she-gcek-web-development     |
 | Anusree K              | 2020 | CSE   | https://github.com/Anu-sreek/She-bootcamp.git                |
 | Ameya Anirudh          | 2019 | ECE   | https://ameyaanirudh.github.io/She-Bootcamp/                 |
-| Fathima Shadha Sulaiman| 2020 | ECE   | github.com/FathimaShadha/SHE-BOOTCAMP                        |
+| Fathima Shadha Sulaiman| 2020 | ECE   | https://github.com/FathimaShadha/SHE-BOOTCAMP                        |
 | Ameeza K U             | 2020 | CSE   | https://ameezaameen.github.io/She-bootcamp/                  |
 | Rhithika Damodaran     | 2019 | ECE   | https://github.com/rhithika/SHE-WEB-DEVELOPMENT-BOOTCAMP.git |
