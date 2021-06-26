@@ -14,4 +14,4 @@ We know your exams are coming so please co-operate for two more days.
 
 ## Submission
 
-Find the submissions of JS task [here](Submissions.md)
+Find the submissions of JS task [here](submissions.md)
