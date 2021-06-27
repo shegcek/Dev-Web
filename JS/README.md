@@ -15,7 +15,7 @@ Good morning Girls!
 
 Here is your task on JS.
 - https://youtu.be/HXUabN4LZfc 
-- 
+
 Please try to complete as soon as possible🙂
 
 ## Submission
