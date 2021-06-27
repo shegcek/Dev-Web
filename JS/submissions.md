@@ -2,7 +2,7 @@
 
 | Name                   |Year  |Branch | Task 3                                                       |
 |------------------------|------|-------|--------------------------------------------------------------|
-| Amrutha Babu T         | 2020 | CSE   | https://amruthababu07.github.io/she-bootcamp/              |
+| Amrutha Babu T         | 2020 | CSE   |               |
 | Aswathy A              | 2019 | CSE   |               |
 | Vyshna Satheesan TK    | 2020 | CSE   |          |
 | Shivani Padmanabhan    | 2020 | ECE   |                |
