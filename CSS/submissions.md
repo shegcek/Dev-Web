@@ -9,7 +9,7 @@
 | Tansa Deona Babs       | 2020 | ECE   | Pending            |
 | Anagha K Sasidharan    | 2020 | CSE   | https://github.com/anaghaksasidharan2002/she.git       |
 | Anu Sherin             | 2020 | CE    | https://github.com/sher-in/She-bootcamp                     |
-| Punya Jayarajan        | 2020 | CSE   | Pending                      |
+| Punya Jayarajan        | 2020 | CSE   | https://github.com/Punyaj/She-bootcamp.git                      |
 | Analiya Remidios       | 2019 | CSE   | https://github.com/AnaliyaRemidios/SHE-Bootcamp            |
 | Vismaya B              | 2020 | CSE   | https://github.com/VismayaBalan/web-Bootcamp.git            |
 | Anjana V               | 2020 | ECE   | https://github.com/anjanav1/dev-web-htm.git                  |
